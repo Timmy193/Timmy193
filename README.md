@@ -4,3 +4,8 @@ Google Drive Link here (For heavy files since github says is too much MB): https
 Arch Linux (Or other distros) is NOT available, AUR package got removed.
 Arch Linux version is only available thru flatpak here:https://flathub.org/apps/ch.tlaun.TL
 To bypass the minecraft authenticator requirement copy and paste this on the terminal: flatpak --user override ch.tlaun.TL --env=TL_BOOTSTRAP_OPTIONS="-Dyoutu.be=dQw4w9WgXcQ"
+
+
+We have a discord server now!!!
+
+https://discord.gg/yvptwpefyh
